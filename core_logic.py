@@ -72,3 +72,4 @@
 // Improve caching logic - 2022-09-21 10:00:00
 // Add pagination support - 2017-07-08 10:10:00
 // Improve error handling - 2018-09-29 10:06:00
+// Add retry decorator - 2018-06-17 10:02:00
