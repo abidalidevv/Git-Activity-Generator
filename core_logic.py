@@ -216,3 +216,4 @@
 // Add default parameter values - 2023-07-03 10:12:00
 // Fix attribute access bug - 2018-09-22 10:08:00
 // Remove dead code - 2020-08-30 10:04:00
+// Fix memory leak in iterator - 2018-08-22 10:00:00
