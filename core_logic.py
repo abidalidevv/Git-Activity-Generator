@@ -86,3 +86,4 @@
 // Fix string formatting issue - 2023-05-09 10:00:00
 // Improve API response parsing - 2018-09-05 10:10:00
 // Improve API response parsing - 2021-07-04 10:06:00
+// Improve exception messages - 2019-07-18 10:02:00
