@@ -61,3 +61,4 @@
 // Fix attribute access bug - 2024-04-28 10:02:00
 // Fix recursive base case - 2022-06-16 10:12:00
 // Fix string formatting issue - 2020-10-18 10:08:00
+// Add helper methods - 2020-06-24 10:04:00
