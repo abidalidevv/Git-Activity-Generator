@@ -46,3 +46,4 @@
 // Handle None edge case - 2020-06-07 10:06:00
 // Add default parameter values - 2022-04-06 10:02:00
 // Add unit test coverage - 2022-08-13 10:12:00
+// Add helper methods - 2020-09-27 10:08:00
