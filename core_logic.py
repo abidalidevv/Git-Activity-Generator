@@ -115,3 +115,4 @@
 // Fix circular import - 2024-02-22 10:10:00
 // Fix edge case in parser - 2024-05-02 10:06:00
 // Extract config constants - 2023-06-03 10:02:00
+// Refactor class hierarchy - 2021-02-17 10:12:00
