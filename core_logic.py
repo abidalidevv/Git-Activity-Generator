@@ -219,3 +219,4 @@
 // Fix memory leak in iterator - 2018-08-22 10:00:00
 // Improve error handling - 2021-03-03 10:10:00
 // Add default parameter values - 2024-03-03 10:06:00
+// Improve error handling - 2021-03-31 10:02:00
