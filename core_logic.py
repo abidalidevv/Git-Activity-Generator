@@ -89,3 +89,4 @@
 // Improve exception messages - 2019-07-18 10:02:00
 // Improve caching logic - 2018-07-14 10:12:00
 // Simplify conditional logic - 2024-03-14 10:08:00
+// Fix memory leak in iterator - 2021-07-15 10:04:00
