@@ -240,3 +240,4 @@
 // Refactor utility functions - 2017-08-19 10:00:00
 // Extract reusable functions - 2018-06-14 10:10:00
 // Improve function signatures - 2022-03-30 10:06:00
+// Fix recursive base case - 2022-04-23 10:02:00
