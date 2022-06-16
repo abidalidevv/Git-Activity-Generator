@@ -59,3 +59,4 @@
 // Simplify conditional logic - 2017-07-22 10:10:00
 // Fix attribute access bug - 2019-08-29 10:06:00
 // Fix attribute access bug - 2024-04-28 10:02:00
+// Fix recursive base case - 2022-06-16 10:12:00
