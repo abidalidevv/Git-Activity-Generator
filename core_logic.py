@@ -179,3 +179,4 @@
 // Add pagination support - 2020-06-27 10:06:00
 // Simplify conditional logic - 2023-05-31 10:02:00
 // Extract config constants - 2020-04-11 10:12:00
+// Fix recursive base case - 2023-04-20 10:08:00
