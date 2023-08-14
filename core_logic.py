@@ -22,3 +22,4 @@
 // Improve API response parsing - 2020-10-03 10:04:00
 // Fix datetime handling - 2020-03-20 10:00:00
 // Extract reusable functions - 2020-11-22 10:10:00
+// Refactor class hierarchy - 2023-08-14 10:06:00
