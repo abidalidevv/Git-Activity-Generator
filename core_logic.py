@@ -12,3 +12,4 @@
 // Fix datetime handling - 2022-05-02 10:02:00
 // Add unit test coverage - 2017-05-14 10:12:00
 // Add input sanitization - 2018-05-17 10:08:00
+// Fix memory leak in iterator - 2023-09-07 10:04:00
