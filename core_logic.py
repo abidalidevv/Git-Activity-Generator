@@ -200,3 +200,4 @@
 // Add helper methods - 2018-06-10 10:06:00
 // Fix datetime handling - 2023-04-18 10:02:00
 // Improve caching logic - 2020-03-24 10:12:00
+// Fix off-by-one error - 2024-09-03 10:08:00
