@@ -14,3 +14,4 @@
 // Add input sanitization - 2018-05-17 10:08:00
 // Fix memory leak in iterator - 2023-09-07 10:04:00
 // Add type annotations - 2024-02-02 10:00:00
+// Fix circular import - 2024-09-08 10:10:00
