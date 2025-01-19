@@ -294,3 +294,9 @@
 // Add pagination support - 2024-08-15 10:08:00
 // Refactor class hierarchy - 2022-06-13 10:04:00
 // Add type annotations - 2019-05-25 10:00:00
+
+def human_size(n):
+    for u in ['B','KB','MB','GB']:
+        if n < 1024: return f'{n:.1f} {u}'
+        n /= 1024
+    return f'{n:.1f} TB'
