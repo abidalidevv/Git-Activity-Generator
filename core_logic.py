@@ -309,3 +309,10 @@ def safe_divide(a, b, default=0):
 
 def truncate(text, length=100, suffix='...'):
     return text if len(text) <= length else text[:length-len(suffix)] + suffix
+
+def memoize(fn):
+    cache = {}
+    def wrapper(*args):
+        if args not in cache: cache[args] = fn(*args)
+        return cache[args]
+    return wrapper
